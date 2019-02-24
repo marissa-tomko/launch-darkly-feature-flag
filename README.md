@@ -1,3 +1,14 @@
+# Marissa Tomko LaunchDarkly Homework Assignment
+
+## App Description
+This React app is an interface that represents an online clothing store. The app depicts products with descriptions and reviews.
+
+## Feature Flag Implementation
+The feature flag was implemented on the product reviews part of the app. In the real world, a clothing store might want to test a product review feature to see if it will increase conversions on the page. Rolling out this feature to a subset of customers will help the store understand if the feature increases the liklihood of users to convert.
+
+## App Screenshot
+![screen shot 2019-02-24 at 3 05 59 pm](https://user-images.githubusercontent.com/10997212/53306726-bdd0fe00-3845-11e9-8af0-58b0311b7778.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
