@@ -1,0 +1,43 @@
+.product-card {
+  height: 600px;
+  min-width: 200px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.product-name {
+  text-align: center;
+}
+
+.product-description {
+  text-align: center;
+  min-width: 250px;
+  font-weight: bold;
+}
+
+.product-reviews {
+  text-align: center;
+}
+
+.product-image {
+  width: 100%;
+}
+
+.review-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #fff !important;
+  text-transform: uppercase;
+  background: #60a3bc;
+  opacity: .9;
+  padding: 20px;
+  display: inline-block;
+  border: none;
+}
+
+.review-button:hover {
+  text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+}
